@@ -1,0 +1,7 @@
+:root {
+    --background-color: hsl(257, 40%, 49%);
+    --text-color: #fff;
+    --button-color-active: hsl(300, 69%, 71%);
+    --button-color-disabled: #fff;
+    --font-family: 'Open Sans', sans-serif;
+}
